@@ -19,7 +19,11 @@
     "url": "https://github.com/bouzuya/b-o-a/issues"
   },
   "dependencies": {
-    "rxjs": "^5.0.0-beta.2"
+    "boajs-core": "0.4.0",
+    "boajs-handler-dom": "0.2.0",
+    "boajs-handler-history": "0.1.0",
+    "boajs-handler-init": "0.1.0",
+    "boajs-handler-request": "0.1.0"
   },
   "devDependencies": {
     "ava": "0.13.0",
