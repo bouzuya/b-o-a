@@ -26,9 +26,13 @@ $ npm install b-o-a
 
 - [bouzuya/boajs-handler-dom][]
 - [bouzuya/boajs-handler-history][]
+- [bouzuya/boajs-handler-init][]
+- [bouzuya/boajs-handler-request][]
 
 [bouzuya/boajs-handler-dom]: https://github.com/bouzuya/boajs-handler-dom
 [bouzuya/boajs-handler-history]: https://github.com/bouzuya/boajs-handler-history
+[bouzuya/boajs-handler-init]: https://github.com/bouzuya/boajs-handler-init
+[bouzuya/boajs-handler-request]: https://github.com/bouzuya/boajs-handler-request
 
 ## Badges
 
