@@ -11,8 +11,12 @@
     "moduleResolution": "node"
   },
   "files": [
+    "./src/core.ts",
+    "./src/dom.ts",
+    "./src/history.ts",
     "./src/index.ts",
-    "./test/index.ts",
+    "./src/init.ts",
+    "./src/request.ts",
     "./typings/main.d.ts",
     "./node_modules/typescript/lib/lib.es6.d.ts"
   ]
