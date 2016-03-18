@@ -38,22 +38,24 @@
   "homepage": "https://github.com/bouzuya/b-o-a#readme",
   "keywords": [],
   "license": "MIT",
-  "main": "./lib/index.js",
+  "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/bouzuya/b-o-a"
   },
   "scripts": {
     "build": "tsc && npm run cp",
-    "clean": "rm -rf lib/ .tmp/",
-    "cp": "cp -R .tmp/src/* lib/",
-    "md1": "[ -d .tmp/src ] || mkdir -p .tmp/src",
-    "md2": "[ -d lib ] || mkdir lib",
+    "clean": "rm -rf index.* handlers/ .tmp/",
+    "cp": "parallelshell 'npm run cp1' 'npm run cp2'",
+    "cp1": "cp -R .tmp/src/index.* ./",
+    "cp2": "cp -R .tmp/src/handlers/* handlers/",
+    "md1": "[ -d .tmp/src/handlers ] || mkdir -p .tmp/src/handlers",
+    "md2": "[ -d handlers ] || mkdir handlers",
     "prebuild": "parallelshell 'npm run md1' 'npm run md2'",
     "prepublish": "typings install && npm run clean && npm run build",
     "test": "ava",
     "watch": "parallelshell 'tsc --watch' 'npm run watch-cp' 'ava -- watch",
     "watch-cp": "watch --ignoreUnreadable --wait 2 'npm run cp' .tmp/src/"
   },
-  "typings": "./lib/index.d.ts"
+  "typings": "./index.d.ts"
 }
