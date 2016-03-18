@@ -33,7 +33,9 @@
     "watch": "0.17.1"
   },
   "files": [
-    "lib"
+    "index.js",
+    "index.d.ts",
+    "handlers"
   ],
   "homepage": "https://github.com/bouzuya/b-o-a#readme",
   "keywords": [],
