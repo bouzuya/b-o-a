@@ -38,7 +38,10 @@
     "handlers"
   ],
   "homepage": "https://github.com/bouzuya/b-o-a#readme",
-  "keywords": [],
+  "keywords": [
+    "b-o-a",
+    "boa"
+  ],
   "license": "MIT",
   "main": "./index.js",
   "repository": {
