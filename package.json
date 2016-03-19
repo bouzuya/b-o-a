@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "boa-core": "0.6.1",
-    "boajs-handler-dom": "0.2.0",
+    "boa-handler-dom": "0.4.0",
     "boajs-handler-history": "0.1.0",
     "boajs-handler-init": "0.1.0",
     "boajs-handler-request": "0.1.0"
