@@ -1,1 +1,1 @@
-export * from 'boajs-core';
+export * from 'boa-core';
