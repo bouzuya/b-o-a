@@ -24,15 +24,33 @@ $ npm install b-o-a
 
 ## Handlers
 
-- [bouzuya/boajs-handler-dom][]
-- [bouzuya/boajs-handler-history][]
-- [bouzuya/boajs-handler-init][]
-- [bouzuya/boajs-handler-request][]
+- [bouzuya/boa-handler-dom][] ([npmjs:boa-handler-dom][])
+- [bouzuya/boa-handler-history][] ([npmjs:boa-handler-history][])
+- [bouzuya/boa-handler-init][] ([npmjs:boa-handler-init][])
+- [bouzuya/boa-handler-request][] ([npmjs:boa-handler-request][])
+- <del>[bouzuya/boajs-handler-dom][] ([npmjs:boajs-handler-dom][])</del>
+- <del>[bouzuya/boajs-handler-history][] ([npmjs:boajs-handler-dom][])</del>
+- <del>[bouzuya/boajs-handler-init][] ([npmjs:boajs-handler-init][])</del>
+- <del>[bouzuya/boajs-handler-request][] ([npmjs:boajs-handler-request][])</del>
 
+[Search all handlers](https://www.npmjs.com/browse/keyword/boa-handler)
+
+[bouzuya/boa-handler-dom]: https://github.com/bouzuya/boa-handler-dom
+[npmjs:boa-handler-dom]: https://www.npmjs.com/package/boa-handler-dom
+[bouzuya/boa-handler-history]: https://github.com/bouzuya/boa-handler-history
+[npmjs:boa-handler-history]: https://www.npmjs.com/package/boa-handler-history
+[bouzuya/boa-handler-init]: https://github.com/bouzuya/boa-handler-init
+[npmjs:boa-handler-init]: https://www.npmjs.com/package/boa-handler-init
+[bouzuya/boa-handler-request]: https://github.com/bouzuya/boa-handler-request
+[npmjs:boa-handler-request]: https://www.npmjs.com/package/boa-handler-request
 [bouzuya/boajs-handler-dom]: https://github.com/bouzuya/boajs-handler-dom
+[npmjs:boajs-handler-dom]: https://www.npmjs.com/package/boajs-handler-dom
 [bouzuya/boajs-handler-history]: https://github.com/bouzuya/boajs-handler-history
+[npmjs:boajs-handler-history]: https://www.npmjs.com/package/boajs-handler-history
 [bouzuya/boajs-handler-init]: https://github.com/bouzuya/boajs-handler-init
+[npmjs:boajs-handler-init]: https://www.npmjs.com/package/boajs-handler-init
 [bouzuya/boajs-handler-request]: https://github.com/bouzuya/boajs-handler-request
+[npmjs:boajs-handler-request]: https://www.npmjs.com/package/boajs-handler-request
 
 ## Badges
 
