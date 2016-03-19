@@ -19,7 +19,7 @@
     "url": "https://github.com/bouzuya/b-o-a/issues"
   },
   "dependencies": {
-    "boajs-core": "0.4.0",
+    "boa-core": "0.6.1",
     "boajs-handler-dom": "0.2.0",
     "boajs-handler-history": "0.1.0",
     "boajs-handler-init": "0.1.0",
