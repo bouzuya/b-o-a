@@ -52,6 +52,28 @@ $ npm install b-o-a
 [bouzuya/boajs-handler-request]: https://github.com/bouzuya/boajs-handler-request
 [npmjs:boajs-handler-request]: https://www.npmjs.com/package/boajs-handler-request
 
+## Libraries
+
+- [bouzuya/boa-core][] ([npmjs:boa-core][])
+- [bouzuya/boa-router][] ([npmjs:boa-router][])
+- [bouzuya/boa-vdom][] ([npmjs:boa-vdom][])
+- <del>[bouzuya/boajs-core][] ([npmjs:boajs-core][])</del>
+- <del>[bouzuya/boajs-router][] ([npmjs:boajs-router][])</del>
+- <del>[bouzuya/boajs-vdom][] ([npmjs:boajs-vdom][])</del>
+
+[bouzuya/boa-core]: https://github.com/bouzuya/boa-core
+[npmjs:boa-core]: https://www.npmjs.com/package/boa-core
+[bouzuya/boa-router]: https://github.com/bouzuya/boa-router
+[npmjs:boa-router]: https://www.npmjs.com/package/boa-router
+[bouzuya/boa-vdom]: https://github.com/bouzuya/boa-vdom
+[npmjs:boa-vdom]: https://www.npmjs.com/package/boa-vdom
+[bouzuya/boajs-core]: https://github.com/bouzuya/boajs-core
+[npmjs:boajs-core]: https://www.npmjs.com/package/boajs-core
+[bouzuya/boajs-router]: https://github.com/bouzuya/boajs-router
+[npmjs:boajs-router]: https://www.npmjs.com/package/boajs-router
+[bouzuya/boajs-vdom]: https://github.com/bouzuya/boajs-vdom
+[npmjs:boajs-vdom]: https://www.npmjs.com/package/boajs-vdom
+
 ## Badges
 
 [![Circle CI][circleci-badge-url]][circleci-url]
