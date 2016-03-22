@@ -1,7 +1,7 @@
 *.log
 .envrc
 .tmp/
-handlers/
-index.*
-node_modules/
-typings/
+/handlers/
+/index.*
+/node_modules/
+/typings/
