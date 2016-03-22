@@ -21,7 +21,7 @@
   "dependencies": {
     "boa-core": "0.6.1",
     "boa-handler-dom": "0.4.0",
-    "boa-handler-history": "0.2.0",
+    "boa-handler-history": "0.3.0",
     "boa-handler-init": "0.3.0",
     "boa-handler-request": "0.2.0"
   },
