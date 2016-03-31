@@ -19,11 +19,11 @@
     "url": "https://github.com/bouzuya/b-o-a/issues"
   },
   "dependencies": {
-    "boa-core": "0.6.2",
-    "boa-handler-dom": "0.4.1",
-    "boa-handler-history": "0.4.0",
-    "boa-handler-init": "0.3.2",
-    "boa-handler-request": "0.2.1"
+    "boa-core": "0.7.0",
+    "boa-handler-dom": "0.5.0",
+    "boa-handler-history": "0.5.0",
+    "boa-handler-init": "0.4.0",
+    "boa-handler-request": "0.3.0"
   },
   "devDependencies": {
     "ava": "0.13.0",
