@@ -76,6 +76,7 @@ $ npm install b-o-a
 
 ## Examples
 
+- [boajs/counter-boa](https://github.com/boajs/counter-boa) ...  0.8.0 / about 250 lines
 - [boajs/todomvc-boa](https://github.com/boajs/todomvc-boa) ([demo](http://boajs.github.io/todomvc-boa/)) ...  0.6.2 / about 500 lines
 
 ## Badges
