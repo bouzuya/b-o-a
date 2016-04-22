@@ -19,7 +19,7 @@
     "url": "https://github.com/bouzuya/b-o-a/issues"
   },
   "dependencies": {
-    "boa-core": "0.7.0",
+    "boa-core": "0.8.0",
     "boa-handler-dom": "0.6.0",
     "boa-handler-history": "0.6.0",
     "boa-handler-init": "0.5.0",
@@ -28,6 +28,7 @@
   "devDependencies": {
     "ava": "0.14.0",
     "parallelshell": "2.0.0",
+    "rxjs": "5.0.0-beta.6",
     "typescript": "1.8.10",
     "typings": "0.8.1",
     "watch": "0.17.1"
@@ -44,6 +45,9 @@
   ],
   "license": "MIT",
   "main": "./index.js",
+  "peerDependencies": {
+    "rxjs": ">=5.0.0-alpha.0 <=5.x"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bouzuya/b-o-a"
