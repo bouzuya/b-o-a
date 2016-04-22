@@ -91,7 +91,7 @@ $ npm install b-o-a rxjs@5.0.0-beta.6 # you can use rxjs@5.x
 
 ### Logo
 
-MIT ([@haskrock](https://github.com/hashrock))
+MIT ([@hashrock](https://github.com/hashrock))
 
 ## Author
 
