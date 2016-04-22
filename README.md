@@ -19,7 +19,7 @@ b-o-a is a simple framework.
 ## Installation
 
 ```
-$ npm install b-o-a
+$ npm install b-o-a rxjs@5.0.0-beta.6 # you can use rxjs@5.x
 ```
 
 ## Handlers
