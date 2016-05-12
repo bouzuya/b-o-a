@@ -76,8 +76,9 @@ $ npm install b-o-a rxjs@5.0.0-beta.6 # you can use rxjs@5.x
 
 ## Examples
 
-- [boajs/counter-boa](https://github.com/boajs/counter-boa) ...  0.8.0 / about 250 lines
-- [boajs/todomvc-boa](https://github.com/boajs/todomvc-boa) ([demo](http://boajs.github.io/todomvc-boa/)) ...  0.6.2 / about 500 lines
+- [boajs/counter-boa](https://github.com/boajs/counter-boa) ... 0.8.0 / about 200 lines
+- [boajs/todomvc-boa](https://github.com/boajs/todomvc-boa) ([demo](http://boajs.github.io/todomvc-boa/)) ... 0.6.2 / about 500 lines
+- [boajs/hackernews-boa](https://github.com/boajs/hackernews-boa) ([demo](http://boajs.github.io/hackernews-boa/)) ... core 0.8.0 & dom 0.7.0 & history 0.7.0 / about 1100 lines
 
 ## Badges
 
