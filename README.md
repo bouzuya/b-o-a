@@ -2,6 +2,8 @@
 
 b-o-a is a simple framework.
 
+Twitter hashtag is [#boajs](https://twitter.com/hashtag/boajs).
+
 ## Concepts
 
 - uni-directional
