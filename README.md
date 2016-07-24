@@ -84,7 +84,13 @@ $ npm install b-o-a rxjs@5.0.0-beta.6 # you can use rxjs@5.x
 
 ## Badges
 
+[![npm version][npm-badge-url]][npm-url]
 [![Circle CI][circleci-badge-url]][circleci-url]
+
+[npm-badge-url]: https://badge.fury.io/js/b-o-a.svg
+[npm-url]: https://www.npmjs.com/package/b-o-a
+[circleci-badge-url]: https://circleci.com/gh/bouzuya/b-o-a.svg?style=svg
+[circleci-url]: https://circleci.com/gh/bouzuya/b-o-a
 
 ## License
 
@@ -103,5 +109,3 @@ MIT ([@hashrock](https://github.com/hashrock))
 [user]: https://github.com/bouzuya
 [email]: mailto:m@bouzuya.net
 [url]: http://bouzuya.net
-[circleci-badge-url]: https://circleci.com/gh/bouzuya/b-o-a.svg?style=svg
-[circleci-url]: https://circleci.com/gh/bouzuya/b-o-a
